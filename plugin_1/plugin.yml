@@ -1,0 +1,4 @@
+name: plugin_1
+main: com.gmail.ursumajor1.plugin_1.main
+version: 1.16.5
+commands:
